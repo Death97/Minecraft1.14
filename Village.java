@@ -19,7 +19,7 @@ public class Village {
     private TreeMap playerStandings = new TreeMap();
     private List aggressors = new ArrayList();
     private int ironGolemCount;
-
+//hi//
     public Village() {}
 
     public Village(World world) {
